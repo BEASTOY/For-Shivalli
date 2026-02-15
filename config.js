@@ -1,53 +1,64 @@
-// Love Website Configuration
-// Customize this file to personalize your love website
+// Website Configuration (Friend-Stage Cute Version)
 
 const CONFIG = {
-    // Partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
-    
-    // Your name (optional, for signature)
-    yourName: "Your Name",
-    
+    // Names
+    partnerName: "Shivali",
+    yourName: "Shreeshant",
+
     // Custom messages
     messages: {
-        subtitle: "you light up my world in ways words can't express ✨",
-        loveNote: "you are the sunshine in my darkest days and the stars in my night sky. Every moment with you feels like magic, and I fall in love with you more each day. You're not just my girlfriend, you're my best friend, my soulmate, and my everything. I love you beyond words! 💖",
-        specialMessage: "You came into my life like a beautiful surprise, and now I can't imagine my world without you. Your smile brightens my darkest days, your laugh is my favorite melody, and your love is the greatest gift I've ever received.",
-        specialMessage2: "Thank you for being you, for loving me, and for making every day feel like a celebration. I promise to love you, cherish you, and make you smile every single day of our lives together.",
-        signature: "With all my love, Forever yours 💕"
+        subtitle: "I just wanted to say something small… 🌸",
+
+        loveNote:
+            "Okay so this is random 😭 but I just wanted you to know…\n\n" +
+            "You’re genuinely one of the sweetest people I’ve met.\n" +
+            "Your vibe is rare, and talking to you feels easy.\n\n" +
+            "I don’t know how to explain it properly, but you matter to me.\n" +
+            "And I lowkey feel lucky that I know you. 🌷",
+
+        specialMessage:
+            "I don’t know if anyone tells you this enough, but you’re genuinely a really good person. " +
+            "You have this calm energy and you make things feel lighter without even trying.",
+
+        specialMessage2:
+            "I like talking to you. I like your vibe.\n\n" +
+            "And honestly… you’re the kind of person I’d never want to lose.\n" +
+            "That’s it. That’s the message. 🌸",
+
+        signature: "— Shreeshant 😅✨"
     },
-    
-    // Memory descriptions
+
+    // Things I like about her (memories section)
     memories: {
-        lateNight: "Those endless conversations that made us forget about time",
-        firstMeeting: "I know the day we meet will be magical and unforgettable",
-        care: "Your caring nature, sweet voice, and adorable cuteness"
+        lateNight: "Talking to you feels easy. Like I can be myself.",
+        firstMeeting: "One day we’ll meet and I know it’ll be a good day.",
+        care: "You’re genuinely sweet… and your presence is comforting."
     },
-    
+
     // Character descriptions
     characters: {
-        partner: "My beautiful angel",
-        you: "Forever yours"
+        partner: "The sweetest person I know",
+        you: "Just someone who appreciates you"
     },
-    
-    // Special messages for different kiss counts
+
+    // If the old template has kiss counter / messages, keep them neutral
     kissMessages: {
-        10: "10 kisses! You're so sweet! 💕",
-        50: "50 kisses! I'm falling deeper in love! 💖",
-        100: "100 kisses! You're my everything! 💘"
+        10: "Okay that’s cute 😭🌷",
+        50: "Bro you’re actually adorable 💀✨",
+        100: "Fine. You win. You’re special 😭💗"
     },
-    
-    // Character interaction messages
+
+    // Character interaction messages (keep friendly, not lover type)
     characterMessages: {
-        partner: "you're the most beautiful person in the world! 💕",
-        you: "I'm so lucky to have you in my life! 💖"
+        partner: "You’re genuinely one of the best people I know 🌷",
+        you: "I’m glad I met you, for real 🌸"
     },
-    
+
     // Memory effect messages
     memoryMessages: {
-        lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
-        firstMeeting: "I know the day we meet will be magical and unforgettable 💫💕",
-        care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
+        lateNight: "Talking to you late feels calm and nice 🌙",
+        firstMeeting: "One day we’ll meet and it’ll be a good day 💫",
+        care: "You’re sweet without even trying 🌷"
     }
 };
 
